@@ -22,6 +22,7 @@ A single extent is often not sufficient, so a file may be composed of a sequence
 - Implementation - `a1fs.c`
 - Shell scripts - `runit.sh`
 - Implementation explanation - `Project Layout.pdf`
+- Complete project handout - `handout.pdf`
 
 ## Shell Scripts
 ### make sure the mountpoint is not in used
