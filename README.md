@@ -17,6 +17,12 @@ A single extent is often not sufficient, so a file may be composed of a sequence
 - Debug program using `gdb`
 - Include a shell script file `runit.sh` to exercise the functionality
 
+## Important files
+- Entry point of the program - `mkfs.c`
+- Implementation - `a1fs.c`
+- Shell scripts - `runit.sh`
+- Implementation explanation - `Project Layout.pdf`
+
 ## Shell Scripts
 ### make sure the mountpoint is not in used
 fusermount -u ${root}
